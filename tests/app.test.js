@@ -88,7 +88,7 @@ describe('Controller Function tests', () => {
           movieId: 1,
           title: 'Inception',
           genre: 'Sci-Fi',
-          director: 'Christopher Nolan',
+          director: 'Christopher Nolan'
         },
       });
     });
